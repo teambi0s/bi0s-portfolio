@@ -10,7 +10,7 @@ import AlumniSuccess from "../components/home/alumniSuccess"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="India's Leading FOSS Club" />
+    <SEO title="India's Leading CTF team" />
     <HomeLanding />
     <div style={{ background: "#ffe" }} >
         <HomeSections />

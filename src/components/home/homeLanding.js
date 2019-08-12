@@ -29,21 +29,13 @@ export default () => {
 
             <Typing speed={50} >
               <h3>
-              <span>A Student Community of Open Source Enthusiasts</span>
+              <span>A Student Community of Security Enthusiasts</span>
               <Typing.Reset count={1} delay={500} />
-              <span>We promote & contribute to</span>
-              <Typing.Reset count={1} delay={500} />
-              <span>Open Source Technologies.</span>
-              <Typing.Reset count={1} delay={500} />
-              <span>We mentor students to achieve excellence in </span>
-              <Typing.Reset count={1} delay={500}/>
-              <span>Technical and Non-Technical Skills.</span>
-              <Typing.Reset count={1} delay={500}/>
-              <span>We are FOSS@Amrita.</span>
+              <span>We are bi0s</span>
               <Typing.Reset count={1} delay={500}/>
               </h3>
               <h1>
-                India's Leading <span>FOSS & Computer Science Club.</span>
+                India's Leading <span>Security Team</span>
               </h1>
             </Typing>
         </div>

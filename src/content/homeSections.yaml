@@ -1,64 +1,58 @@
 - Title: Who are we?
   Image: !file ../images/illus/who_are_we.jpg
   Content: !markdown |
-    FOSS@Amrita (also known as amFOSS ) is a community of passionate college students,
-    who have come together for the cause of promoting and contributing to Free and Open
-    Source Software, whilst achieving excellence in the field of technology in their pursuit of knowledge.
+    Team bi0s (also known as Amrita bi0s) is a community of passionate college students,
+    who have come together for the cause of making the world a safer place by
+    contributing to the security community, while achieving excellence in security research.
 
-    The club envisions to make its members competent to become the leaders of the future with
-    excellence in technical, creative, and intrapersonal skills, through making them learn how to learn,
-    by simulating a workspace like atmosphere inside the lab, and making them go through all challenges,
-    and setbacks they may face in the real world.
+    The team operates on a principle where the senior members of the club individually
+    mentor the junior members. This enables the juniors to learn at a much faster rate, as they dont have to face the challenges their seniors had to face.
 
-    Founded in 2008, the club over the years has been renowned as one of the leading student clubs in India,
-    with about 500 active members. It has so far produced 30+ GSoCers, and established Amrita Vishwa Vidyapeetham,
-    Amritapuri Campus as globally 8th ranked in GSoC ranking. The club is run by the students themselves, with the
-    help of research scholars, alumni, and faculties.
+    Founded in 2008 by our mentor Shri Vipin Pavithran, over the years bi0s has been renowned as one of the leading CTF teams in India, with about 30 active members. The club is run by the students themselves, with the help of research scholars, alumni, and faculties.
 
 - Title: What we do?
   Image: !file ../images/illus/what_we_do.png
   Content: !markdown |
-    The club operates by the principle of mentorship and family, where the senior members of the club individually
-    mentor the juniors, and the club as such acting as a family where the one helps the other out.
 
-    The members contribute to Open Source projects of various popular open source organizations, work on developing
-    their own projects including the club projects aimed at solving real world problems, participate in GSoC, developer
-    meets, hackathons etc. The members also conduct workshops and technical fests to encourage others to work on open
-    source technologies.
+    Team bi0s primarily participates in [Capture The Flag](https://ctftime.org/ctf-wtf/) (**CTF**) competitions & has been consistently ranked the **number one** team in India since 2016 [according to CTFtime](https://ctftime.org/stats/2019/IN). We regularly post write-ups of CTF challenges on our blog [here](https://blog.bi0s.in/).
 
-    The club also got specialised teams internally such as one focused on Android, Blockchain, IoT, Data Science,
-    Machine Learning, Problem-solving, UI/UX, and Web Development.
+    The team members also engage actively in **security research**. This is evident from the fact that our members have found several security issues in a variety of softwares such as Virtualisation Software, Content Management Systems, QnA Forums, Operating Systems etc. You can view a full list [here]().
 
-    The club believes in the holistic development of its members, and the members besides seeking excellence in
-    technical skills, also engage in talks, debates, sports, cultural activities, yoga sessions etc.
+    Driven by the vision to make **security education** easily accessible in India, members of our team go around places such as Schools, Universities and Industries to deliver **security trainings** and **workshops** ranging from very basic topics to cutting edge security research. We also maintain a [wiki](https://wiki.bi0s.in/) for people to get started with security.
+
+    We organise the following CTFs every year:  
+    + InCTF Internationals    
+    + InCTF Nationals  
+    + InCTF Junior
+    + BSides Delhi CTF  
+
+    You can read about them in detail [here]()
+
+    Some of the members are also involved in [creating]() tools and contributing to open source projects such as NetBSD, qemu, radare, sagemath etc.
+
   Points:
-    - Text: [Mentor & train students, to take on the world]
+    - Text: [Mentor & train students]
       Icon: ../images/illus/mentor.svg
-    - Text: [Promote Open Source, and Computer Science]
+    - Text: [Cutting-edge Security Research]
       Icon: ../images/illus/talk.svg
-    - Text: [Contribute to Open Source, Projects & Communities]
+    - Text: [Contribute to Open Source projects]
       Icon: ../images/illus/code.svg
 - Title: What we have achieved?
   Image: !file ../images/illus/what_did_we_achieve.png
   Content: !markdown |
-    The club has become one of the forerunners in promoting, and contributing to open
-    source in the country, introducing over a hundred enthusiasts every year to the world
-    of Open source through the various activities it conducts.
 
-    The club has produced 50+ GSoCers over the last 10 years, with about 15 developers getting selected every year.
-    The members have been actively taking part in international conferences, meetups, hackathons, as well as delivering
-    talks and presenting projects at various events.
+    Currently, the team is ranked [19th](https://ctftime.org/stats/2019) among 14,292 academic and professional teams worldwide and has been ranked first in India since 2016! bi0s has also been invited to compete with other international teams in a variety of onsite CTFs such as [Positive Hack Days](), [CSAW](), [Nullcon]() and [ISITDTU]().
 
-    Majority of the club alumni have been placed in core computer science companies such as Google, Microsoft, Intel,
-    IBM and VMWare. The active members also get selected for summer schools at global universities, and paid
-    internships at top companies. Some of our alumni are currently Phd. research scholars at various foreign
-    universities.
+    Our security research has yielded a [number of CVEs]() in various software vendors, with severity ranging from medium to critical. Every year a few of our members also get selected for the prestigious Google Summer of Code with organisations such as NetBSD, OWASP etc.
+
+    Members of our team have also been selected to **deliver talks** at top tier security conferences like DEFCON, Troopers and other community-based security conferences such as BSides and Nullcon. In addition to this, the members have **received scholarships** to attend conferences like BlackHat, Troopers, Hack.lu etc.
+
   Stats:
-    - Num: "500+"
-      Text: Students Trained
-    - Num: "50+"
-      Text: GSoC Students
+    - Num: "10+"
+      Text: CVEs found
+    - Num: "30+"
+      Text: CTFs hosted
     - Num: "100+"
-      Text: Alumni in Core CS Jobs
-    - Num: "50+"
-      Text: Working in Startups
+      Text: Trainings
+    - Num: "500+"
+      Text: CTFs played
