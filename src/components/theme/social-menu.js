@@ -3,11 +3,11 @@ import SocialIcon from "./social-icon"
 
 const SocialMenu = () => (
   <div className="social-menu">
-    <SocialIcon name="github" link="https://github.com/amfoss" />
-    <SocialIcon name="facebook" link="https://facebook.com/amfoss.in" />
-    <SocialIcon name="twitter" link="https://twitter.com/amfoss_in" />
-    <SocialIcon name="instagram" link="https://instagram.com/amfoss.in" />
-    <SocialIcon name="linkedin" link="https://linkedin.com/company/amfoss" />
+    <SocialIcon name="github" link="https://github.com/teambi0s" />
+    <SocialIcon name="facebook" link="https://www.facebook.com/teambi0s/" />
+    <SocialIcon name="twitter" link="https://twitter.com/teambi0s?lang=en" />
+    <SocialIcon name="instagram" link="https://www.instagram.com/teambi0s/" />
+    <SocialIcon name="linkedin" link="https://www.linkedin.com/company/bi0s/about/" />
   </div>
 )
 
