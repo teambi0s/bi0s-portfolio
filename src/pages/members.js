@@ -141,6 +141,20 @@ export default class Members extends React.Component {
                   <option value="Faculty Mentor">Faculty Mentors</option>
                 </select>
               </div>
+              <div className="mb-4 mx-2">
+                <div>Filter By Category</div>
+                <select className="bg-white p-2 w-100 mt-2" onChange={this.memberFilter.bind(this)} value={this.state.filterRole}>
+                  <option value="active">{this.state.filterRole === "active" ? 'Change Role' : ' Active' }</option>
+                  <option value="all">Everyone</option>
+                  <option value="web">Web Exploitation</option>
+                  <option value="forensics">Forensics</option>
+                  <option value="reverse">Reverse Engineering</option>
+                  <option value="binary">Binary Exploitation</option>
+                  <option value="crypto">Cryptography</option>
+                  <option value="android">Android Security</option>
+                  <option value="hardware">Hardware Security</option>
+                </select>
+              </div>
             </div>
           </div>
         </div>
