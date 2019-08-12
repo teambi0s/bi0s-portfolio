@@ -12,7 +12,7 @@ const ProjectCard = ({ project }) => (
     />
     <div className="text-dark px-4 py-4">
       <h6 className="mb-2">{project.title}</h6>
-      <div dangerouslySetInnerHTML={{ __html: project.description}} />
+      <div dangerouslySetInnerHTML={{ __html: project.tagline}} />
     </div>
   </Link>
 )

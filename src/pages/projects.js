@@ -48,7 +48,7 @@ export const pageQuery = graphql`
             }
           }
           slug
-          description
+          tagline
           cover {
             childImageSharp {
               resize(width: 500) {
