@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `FOSS@Amrita (amFOSS) - Code | Share | Grow`,
-    description: `A Student Community of Open Source Enthusiasts based in Amrita Vishwa Vidyapeetham, Amritapuri. We promote and contribute to FOSS, and mentor students for achieving excellence.`,
-    author: 'amfoss'
+    title: `bi0s - Learn | CTF | Exploit`,
+    description: `A Student Community of Cyber Security Enthusiasts based in Amrita Vishwa Vidyapeetham, Amritapuri`,
+    author: 'bi0s'
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `amFOSS Website`,
-        short_name: `amfoss`,
+        name: `bi0s Website`,
+        short_name: `bi0s`,
         start_url: `/`,
         background_color: `#ffc107`,
         theme_color: `#ffc107`,
@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `amfoss`
+        shortname: `bi0s`
       }
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
