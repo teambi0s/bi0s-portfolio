@@ -1,0 +1,15 @@
+title: "How2Kernel"
+members:
+  - user: R3x
+    role: Lead
+slug: "how2kernel"
+tagline: "This repository is hosted with the aim of having a straightforward way to get started with kernel exploitaion in Linux OS."
+description:
+     How2kernel - is a repository meant to help people get started with kernel exploitation. It's modular, lab based environment helps people to easily setup and learn multiple attack vectors present in the linux kernel.
+cover: ./covers/How2Kernel.png
+gallery:
+  - ./gallery/kernel1.png
+  - ./gallery/kernel2.png
+
+links:
+  github: https://github.com/teambi0s/How2Kernel

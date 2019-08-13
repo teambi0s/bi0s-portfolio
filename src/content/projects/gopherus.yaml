@@ -1,0 +1,15 @@
+title: "Gopherus"
+members:
+  - user: SpyD3r
+    role: Lead
+slug: "gopherus"
+tagline: "This tool generates gopher link for exploiting SSRF and gaining RCE in various servers"
+description:
+  This tool helps the user to generate Gopher payload for exploiting SSRF (Server Side Request Forgery) and gaining RCE (Remote Code Execution), also it will helps the user to gain the Reverse shell on the victim server.
+cover: ./covers/gopherus.png
+gallery:
+  - ./gallery/gopherus1.png
+  - ./gallery/gopherus2.png
+links:
+  github: https://github.com/tarunkant/Gopherus
+  website: https://spyclub.tech/

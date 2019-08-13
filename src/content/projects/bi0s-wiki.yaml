@@ -1,0 +1,17 @@
+title: "bi0s-wiki"
+members:
+  - user: bi0s
+    role: Lead
+slug: "bi0s-wiki"
+tagline: "This wiki will provide necessary resources for a beginner to get started in the areas of cybersecurity "
+description:
+      This wiki is aimed to give beginners an overview about the different areas of cybersecurity and CTF’s. It also consists of basic information about the different areas of cybersecurity like Reverse Engineering, Binary Exploitation, Cryptography, Web Exploitation and Digital Forensics.
+cover: ./covers/bi0s-wiki.png
+gallery:
+  - ./gallery/crypto.png
+  - ./gallery/forensics.png
+  - ./gallery/web.png
+  - ./gallery/pwn.png
+  - ./gallery/reverse.png
+links:
+  website: https://wiki.bi0s.in

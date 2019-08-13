@@ -96,7 +96,6 @@ export default class ProjectTemplate extends React.Component {
                     <div className="social-links">
                       <SocialIcon name="github" link={this.props.data.projectsYaml.links.github} />
                       <SocialIcon name="website" link={this.props.data.projectsYaml.links.website} />
-                      <SocialIcon name="chatroom" link={this.props.data.projectsYaml.links.chatroom} />
                     </div>
                   ) : null}
                 </div>
@@ -153,7 +152,6 @@ export const pageQuery = graphql`
       links{
         github
         website
-        chatroom
       }
       description
       cover {
