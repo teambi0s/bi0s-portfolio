@@ -1,0 +1,15 @@
+title: "File-xploit"
+members:
+  - user: sherl0ck
+    role: Lead
+slug: "file-xploit"
+tagline: "This python module is used for generating payloads to exploit the FILE structure in C. Extremely useful in CTF challenges."
+description:
+    This library emulates the C File Structure and can generate automatic payloads for arbitrary read and write provided that there is a bug that allows us to overwrite a File Structure. It currently supports amd64 and i386 architectures.
+cover: ./covers/filex.png
+gallery:
+  - ./gallery/file_2.png
+  - ./gallery/file_3.png
+links:
+  github: https://github.com/vigneshsrao/File-xploit/
+  website: https://vigneshsrao.github.io/

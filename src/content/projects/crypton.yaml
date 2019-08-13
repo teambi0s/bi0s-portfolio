@@ -6,8 +6,9 @@ slug: "crypton"
 tagline: "Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Authentication methods along with example challenges from CTFs"
 description:
   Crypton is an educational library to learn and practice Offensive and Defensive Cryptography. It is basically a collection of explanation and implementation of all the existing vulnerabilities and attacks on various Encryption Systems (Symmetric and Asymmetric), Digital Signatures, Message Authentication Codes and Authenticated Encryption Systems. Each attack is also supplemented with example challenges from "Capture The Flag" contests and their respective write-ups. Individuals who are already acquainted (or are into CTFs) with this field can use Crypton as a tool to solve challenges based on a particular existing vulnerability.
-cover: ./covers/crypton.png
+cover: ./covers/Crypton.png
 gallery:
+  - ./gallery/crypton.png
   - ./gallery/Crypton11.png
   - ./gallery/Crypton21.png
   - ./gallery/Crypton31.png
